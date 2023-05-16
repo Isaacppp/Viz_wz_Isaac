@@ -114,5 +114,3 @@ def create_sankey(df, origin, destination1, measure, operation, destination2=Non
         width=1000,
         height=800)
     fig.show()
-
-create_sankey(df5, 'source', 'dest1', 'weight', 'sum', 'dest2')
