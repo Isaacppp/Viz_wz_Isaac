@@ -7,10 +7,8 @@ Or, you may access [Our Isaac Pan](https://www.ourisaacpan.com/) for more tips &
 Let's start creating!
 
 ## Table of Contents
-*separate paragraph*
 1. Sankey Diagram (the one and only currently)
 
 
 ### Sankey Diagram
-*separate paragraph*
 
