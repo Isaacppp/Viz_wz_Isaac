@@ -11,6 +11,6 @@ Let's start creating!
 
 
 ### Sankey Diagram
-:pushpin:[Sankey Diagram Two to Three Fields](sankey_diagram_two_to_three_fields.ipynb)
+:pushpin:[Sankey Diagram Two to Three Fields](sankey_diagram_two_to_three_fields)
 
 
